@@ -297,6 +297,3 @@ print(f'预测类别: {predicted_class}')
 
 如有问题，请通过 GitHub Issues 联系。
 
----
-
-现在这份 README 已经包含了完整的 `requirements.txt` 内容，你可以直接**全部复制**到项目根目录的 `README.md` 文件中使用！需要我再帮你调整其他内容吗？
